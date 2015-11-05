@@ -1,0 +1,16 @@
+微博链接：
+    微博主页：
+	      http://weibo.cn/u/5358849001    //普通用户
+		  http://weibo.cn/u/5358849001?page=n
+	      http://weibo.cn/lichenlichen    //认证用户
+		  http://weibo.cn/lichenlichen?page=n    //n无限制
+		  
+    关注：http://weibo.cn/5358849001/follow
+	      http://weibo.cn/5358849001/follow?page=n    (n <= 20)
+		  
+    粉丝：http://weibo.cn/5358849001/fans
+	      http://weibo.cn/5358849001/fans?page=n    (n <= 20)
+	
+	个人信息：
+	      http://weibo.cn/1197161814/info
+		  http://weibo.cn/account/privacy/tags/?uid=1197161814&st=4e9cfc    //标签信息
